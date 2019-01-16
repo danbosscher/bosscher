@@ -1,5 +1,5 @@
 ---
-title: Placeholder
+title: Azure Resources
 date: '2019-01-16T12:38:05'
 ---
 
