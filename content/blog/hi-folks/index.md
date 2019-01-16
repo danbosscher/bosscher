@@ -1,30 +1,24 @@
 ---
-title: Temp
-date: '2015-05-28T22:40:32.169Z'
+title: Placeholder
+date: '2019-01-16T12:38:05'
 ---
 
-Temp 2
+First blog entry. Will fill this up with resources shortly.
 
 ## Header
 
-Temp 2
-
-- Ta
-- a
-  - b
-- c
+- Ordered List
 
  **Italic**, link
 [Linky](http://google.com)
 
 ## Header
 
-> Wat
-> Dis
-> now
+> WIP
+> WIP
+> WIP
 
-### Header
-
+### Ul
 
 1.  a
 2.  bey
