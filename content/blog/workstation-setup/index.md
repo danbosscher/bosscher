@@ -1,5 +1,5 @@
 ---
-title: Automated workstation
+title: Dev box setup
 date: '2019-01-31T15:30:00'
 ---
 
