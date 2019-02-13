@@ -6,6 +6,8 @@ date: '2019-01-31T15:30:00'
 After any fresh OS installation, you'll spend some time resetting preferences, installing your applications, etc.
 These are some scripts that'll automate some of that work.
 
+Test.
+
 I use my own fork of Microsoft's [dev box scripts](https://github.com/Microsoft/windows-dev-box-setup-scripts).
 You can find mine [here on Github](https://github.com/danbosscher/windows-dev-box-setup-scripts).
 
