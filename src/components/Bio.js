@@ -31,7 +31,7 @@ function Bio() {
               }}
             />
             <p>
-              I'm <strong>{author}</strong>, a cloud architect at Microsoft.
+              I'm <strong>{author}</strong>, a cloud specialist at Microsoft.
               <br></br>
               <a href={`https://www.linkedin.com/in/danboss/`}>
                 Add me on LinkedIn.
